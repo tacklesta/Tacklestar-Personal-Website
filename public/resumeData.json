@@ -1,0 +1,153 @@
+{
+    "main": {
+        "name": "Tarun Dyundi",
+        "occupation": "Student",
+        "description": " I am a Developer who never wants to stop Learning",
+        "image": "profilepic.jpeg",
+        "bio": "I am a Front End Developer in New York City with an interest in B2C, retail, small business B2B, and mobile tech. My previous roles in SaaS sales at some of Silicon Valley's fastest growing startups sparked my interest in product and software engineering. This led me to teach myself web development and attend App Academy's full-stack coding bootcamp.",
+        "contactmessage": "Have a project for me ? Think I'd be a good fit for your team ? I'd love to hear from you, Please reach out via the contact form below if you'd like to get in contact with me. I will respond as soon as possible.",
+        "email": "tarundyundi2000@gmail.com",
+        "phone": "+91 9911950676",
+        "address": {
+            "street": "Parsvanath Paradise",
+            "city": "Delhi",
+            "state": "Delhi",
+            "zip": "110092"
+        },
+        "website": " ",
+        "resumeDownload": "assets/tarun_dyundi_resume.pdf",
+        "social": [{
+                "name": "github",
+                "url": "http://github.com/tacklesta",
+                "className": "fa fa-github"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://linkedin.com/in/tarun-dyundi-801",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/Tacklestar.A",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/",
+                "className": "fa fa-instagram"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here is a small collection of my most relevant skills :",
+        "education": [{
+                "school": "GB Pant Institute of Engineering and Technology",
+                "degree": "BTech (Electronics and Communication Engineering)",
+                "graduated": "Sept 2022",
+                "description": ""
+            },
+            {
+                "school": "AVB Public School",
+                "degree": "Senior Secondary School",
+                "graduated": "April 2016",
+                "description": ""
+            }
+        ],
+        "work": [{
+                "company": "Widhya",
+                "title": "Machine Learning Intern ",
+                "years": "October 2020 - January 2021 ",
+                "description": "As an Intern at Widhya, I worked over statistical analysis and visualization of data on an everyday basis and then predicting the outcome of various tasks. I also worked on various ML projects related to Recommender System and Sentiment Analysis being a part of Widhya"
+            },
+            {
+                "company": "The Sparks Foundation",
+                "title": "Data Science Intern",
+                "years": "October 2020 - November 2020",
+                "description": "As a Data Science and Analytics Intern, I was working on analyzing different datasets. My task was to analyze and test different ML models which fit the accuracy parameters"
+            }
+        ],
+        "skills": [{
+                "name": "C++",
+                "level": "80%"
+            },
+            {
+                "name": "Python",
+                "level": "50%"
+            },
+            {
+                "name": "Javascript",
+                "level": "70%"
+            },
+            {
+                "name": "Machine Learning",
+                "level": "66%"
+            },
+            {
+                "name": "MERN Stack",
+                "level": "60%"
+            },
+            {
+                "name": "Flask",
+                "level": "40%"
+            },
+            {
+                "name": "NLP",
+                "level": "60%"
+            },
+            {
+                "name": "MYSQL",
+                "level": "40%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "PlayIt",
+                "category": "A web music player to create playlist and play songs",
+                "image": "playit.jpg",
+                "url": "https://playit12.herokuapp.com/"
+            },
+            {
+                "title": "NameIt !!",
+                "category": "A web app to generate quick name suggesstions according to user's input",
+                "image": "nameit.jpg",
+                "url": "https://tacklesta.github.io/NameItNow/"
+            },
+            {
+                "title": "Daily Blogs",
+                "category": "Website built for writing daily content by the user",
+                "image": "daily-blogs.jpg",
+                "url": "https://daily-blogs-12.herokuapp.com/"
+            },
+            {
+                "title": "Portfolio",
+                "category": "A React based resume website (Currently under progress)",
+                "image": "resume-website.jpg",
+                "url": ""
+            },
+            {
+                "title": "FlashCheck",
+                "category": "A React and Text generator API based typing practice web application.",
+                "image": "flashcheck.jpg",
+                "url": "https://flashcheck.herokuapp.com/xyz.com"
+            },
+            {
+                "title": "CheckNote",
+                "category": "A website to keep check of daily todo tasks.",
+                "image": "checknote.jpg",
+                "url": "https://checknote32.herokuapp.com/"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "To be updated",
+                "user": "To be updated"
+            },
+            {
+                "text": "To be updated",
+                "user": "To be updated"
+            }
+        ]
+    }
+}
