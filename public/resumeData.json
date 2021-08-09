@@ -110,13 +110,13 @@
             {
                 "title": "NameIt !!",
                 "category": "A web app to generate quick name suggesstions according to user's input",
-                "image": "nameit.jpg",
+                "image": "nameit.JPG",
                 "url": "https://tacklesta.github.io/NameItNow/"
             },
             {
                 "title": "Daily Blogs",
                 "category": "Website built for writing daily content by the user",
-                "image": "daily-blogs.jpg",
+                "image": "daily-blogs.JPG",
                 "url": "https://daily-blogs-12.herokuapp.com/"
             },
             {
@@ -128,13 +128,13 @@
             {
                 "title": "FlashCheck",
                 "category": "A React and Text generator API based typing practice web application.",
-                "image": "flashcheck.jpg",
+                "image": "flashcheck.JPG",
                 "url": "https://flashcheck.herokuapp.com/xyz.com"
             },
             {
                 "title": "CheckNote",
                 "category": "A website to keep check of daily todo tasks.",
-                "image": "checknote.jpg",
+                "image": "checknote.JPG",
                 "url": "https://checknote32.herokuapp.com/"
             }
         ]
