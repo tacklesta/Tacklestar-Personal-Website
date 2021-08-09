@@ -126,47 +126,47 @@ class Resume extends React.Component {
         <div class="container">
           {/* {skills} */}
         <div class="row">
-            <div class="col-md-6 skills">C++
+            <div class="col-md-6 skills"><strong>C++</strong>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" style={{background:this.getRandomColor(), width:"80%"}} aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
               <br/>
               </div>
-              <div class="col-md-6">Python
+              <div class="col-md-6 skills"><strong>Python</strong>
                 <div class="progress">
                   <div class="progress-bar" role="progressbar" style={{background:this.getRandomColor(), width: '50%'}} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
                 <br/></div>
               </div>
               <div class="row">
-                <div class="col-md-6">JavaScript
+                <div class="col-md-6 skills"><strong>JavaScript</strong>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style={{background:this.getRandomColor(), width: '70%'}} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <br/></div>
-                  <div class="col-md-6">Machine Learning
+                  <div class="col-md-6 skills"><strong>Machine Learning</strong>
                     <div class="progress">
                       <div class="progress-bar" role="progressbar" style={{background:this.getRandomColor(), width: '65%'}} aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     <br/></div>
                   </div>
                   <div class="row">
-                    <div class="col-md-6">MERN Stack
+                    <div class="col-md-6 skills"><strong>MERN Stack</strong>
                       <div class="progress">
                         <div class="progress-bar" role="progressbar" style={{background:this.getRandomColor(), width: '60%'}} aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
                       <br/></div>
-                          <div class="col-md-6">Flask
+                          <div class="col-md-6 skills"><strong>Flask</strong>
                             <div class="progress">
                               <div class="progress-bar" role="progressbar" style={{background:this.getRandomColor(), width: '40%'}} aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                             <br/></div>
-                            <div class="col-md-6">NLP
+                            <div class="col-md-6 skills"><strong>NLP</strong>
                             <div class="progress">
                               <div class="progress-bar" role="progressbar" style={{background:this.getRandomColor(), width: '60%'}} aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                             <br/></div>
-                            <div class="col-md-6">MYSQL
+                            <div class="col-md-6 skills"><strong>MYSQL</strong>
                             <div class="progress">
                               <div class="progress-bar" role="progressbar" style={{background:this.getRandomColor(), width: '55%'}} aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
