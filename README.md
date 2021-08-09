@@ -10,4 +10,4 @@
 
 The template is taken as a reference from [Tim Baker](https://github.com/tbakerx) , so thanks to him.
 
-I changed some of the react components and made required modifications and adjustment for the responsiveness of the website.
+I changed some of the react components and their functionality according to my need and made required modifications and adjustment for the responsiveness of the website.
