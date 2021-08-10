@@ -1,5 +1,5 @@
 # Tarun-Personal-Website
- This is my portfolio website, which I tried making completely from scratch with ReactJS as base.
+ This is my personal portfolio website, which I tried making completely from scratch with ReactJS as base.
  
  Initial version can be accessed [here](https://tacklestar-portfolio.herokuapp.com/) 
  
