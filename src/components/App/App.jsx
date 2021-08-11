@@ -5,7 +5,7 @@ import Header from '../../components/Header/Header';
 import About from '../../components/About/About';
 import Resume from '../../components/Resume/Resume';
 import Contact from '../../components/Contact/Contact';
-import Testimonials from '../../components/Testimonials/Testimonials';
+// import Testimonials from '../../components/Testimonials/Testimonials';
 import Portfolio from '../../components/Portfolio/Portfolio';
 import Footer from '../../components/Footer/Footer';
 
@@ -50,7 +50,7 @@ class App extends React.Component {
                 <About data={this.state.resumeData.main} />
                 <Resume data={this.state.resumeData.resume} />
                 <Portfolio data={this.state.resumeData.portfolio}/>
-                <Testimonials data={this.state.resumeData.testimonials} />
+//                 <Testimonials data={this.state.resumeData.testimonials} />
                 <Contact data={this.state.resumeData.main} />
                 <Footer data={this.state.resumeData.main} />
             </div>
